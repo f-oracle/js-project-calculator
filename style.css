@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Cherokee:wght@100..900&family=Noto+Sans+Psalter+Pahlavi&display=swap');
+html,
+body{
+height: 100%;
+overflow: auto;
+margin: 0;
+}
+
+body{
+    background: #0c0b0b;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+}
+.__display-screen{
+    height: 35%;
+    color: #ffff;
+    display: grid;
+}
+.__character-display{
+    font-size: 7rem;
+    font-weight: 200;
+    font-family: "Noto Sans Cherokee", sans-serif;
+}
