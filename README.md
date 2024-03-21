@@ -34,4 +34,9 @@ Contributions are welcome! if you'd like to contribute to this project, please f
    ****Credits ****
    This project was created by Familusi Omobolaji Ezekial aka __blackarch🦅
 
+   **License**
+   This project is lincensed under the MIT License - see the #link-to-lincense-file file for details.
+
+   Feel free to customize the sections according to your project's specific details and add any additional information you think would be relevant.
+
    
