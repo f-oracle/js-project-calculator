@@ -32,6 +32,6 @@ Contributions are welcome! if you'd like to contribute to this project, please f
 6. Create a new Pull Request.
    
    ****Credits ****
-   This project was created by  __blackarch🦅
+   This project was created by Familusi Omobolaji Ezekial aka __blackarch🦅
 
    
