@@ -1,4 +1,6 @@
-****#js-project-calculator****
+#js-project-calculator
+
+
 ****Iphone Inspired Calculator**** This calculator project is inspired by the iconic design and functionality of the iphone calculator app. it aims to provide a similar user experience while adding some unique features and customization options
 
 **Features Intuitive Interface** : the calculator interface closely resembles the familiar layout of the iphone calculator, making it easy for users to navigate and use Basic Arithmetic Operations : Perform addition, subtraction, multiplication, and division with ease. Scientific Functions : includes common scientific functions such as square root, exponentiation,percentage,trigonometric functions, Compound interest and more. Memory Functions : Store and Recall numbers using memory functions like M+,M-,MR and MC. Customization Options :Customize the apperance of the calculator with different themes and color schemes.
