@@ -1,11 +1,11 @@
-#js-project-calculator
+**js-project-calculator**
 Iphone Inspired Calculator This calculator project is inspired by the iconic design and functionality of the iphone calculator app. it aims to provide a similar user experience while adding some unique features and customization options
 
-Features Intuitive Interface : the calculator interface closely resembles the familiar layout of the iphone calculator, making it easy for users to navigate and use Basic Arithmetic Operations : Perform addition, subtraction, multiplication, and division with ease. Scientific Functions : includes common scientific functions such as square root, exponentiation,percentage,trigonometric functions, Compound interest and more. Memory Functions : Store and Recall numbers using memory functions like M+,M-,MR and MC. Customization Options :Customize the apperance of the calculator with different themes and color schemes.
+**Features Intuitive Interface** : the calculator interface closely resembles the familiar layout of the iphone calculator, making it easy for users to navigate and use Basic Arithmetic Operations : Perform addition, subtraction, multiplication, and division with ease. Scientific Functions : includes common scientific functions such as square root, exponentiation,percentage,trigonometric functions, Compound interest and more. Memory Functions : Store and Recall numbers using memory functions like M+,M-,MR and MC. Customization Options :Customize the apperance of the calculator with different themes and color schemes.
 
-Usage
+**Usage**
 
-Clone the repository to your local machine: git clone https://github.com/f-oracle/js-project-calculator.git
+**Clone the repository to your local machine**: git clone https://github.com/f-oracle/js-project-calculator.git
 Open the index.html file in your web browser.
 Start performing calculations just luke you would on your iPhone Calculator
 Demo #link-to-demo
@@ -18,7 +18,7 @@ Fork the repository.
 
 Create a new branch (git checkout -b feature/awesome-feature).
 
-Make your chnages.
+Make your changes.
 
 Commit your changes(git commit -am 'Add awesome feature').
 
