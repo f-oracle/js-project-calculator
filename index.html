@@ -13,44 +13,44 @@
 <body>
     <div class="__content">
         <div class="__display-screen">
-            <div class="__character-display">0</div>
+            <div id="display" class="__character-display"></div>
         </div>
         <div class="__row row1">
-            <a class="__a1" href="">AC</a>
-            <a class="__a2" href="">+/-</a>
-            <a class="__a3" href="">%</a>
-             <a class="__a4" href="">÷</a>
+            <a class="__a1 clear" href="#">AC</a>
+            <a class="__a2 operator" data-value="-" href="#">+/-</a>
+            <a class="__a3 operator" data-value="%" href="#">%</a>
+             <a class="__a4 operator" data-value="÷" href="#">÷</a>
         </div>
 
         <div class="__row row2">
-            <a class="__a5" href="">7</a>
-            <a class="__a6" href="">8</a>
-            <a class="__a7" href="">9</a>
-            <a class="__a8" href="">×</a>
+            <a id="7" data-value="7" class="__a5 number-link" href="#">7</a>
+            <a id="8" data-value="8" class="__a6 number-link" href="#">8</a>
+            <a id="9" data-value="9" class="__a7 number-link" href="#">9</a>
+            <a id="multiply" class="__a8 operator" data-value="*" href="#">×</a>
         </div>
 
         <div class="__row row3">
-            <a class="__a9" href="">4</a>
-            <a class="__a10" href="">5</a>
-            <a class="__a11" href="">6</a>
-            <a class="__a12" href="">-</a>
+            <a id="4" data-value="4" class="__a9 number-link" href="#">4</a>
+            <a id="5" data-value="5" class="__a10 number-link" href="#">5</a>
+            <a id="6" data-value="6" class="__a11 number-link" href="#">6</a>
+            <a id="minus" class="__a12 operator" data-value="-" href="#">-</a>
         </div>
         <div class="__row row4">
-            <a class="__a13" href="">1</a>
-            <a class="__a14" href="">2</a>
-            <a class="__a15" href="">3</a>
-            <a class="__a16" href="">+</a>
+            <a id="1" data-value="1" class="__a13 number-link" href="#">1</a>
+            <a id="2" data-value="2" class="__a14 number-link" href="#">2</a>
+            <a id="3" data-value="3" class="__a15 number-link" href="#">3</a>
+            <a id="add" class="__a16 operator" data-value="+" href="#">+</a>
         </div>
          <div class="__row row5">
-            <a class="__a17" href="">0</a>
-            <a class="__a18" href="">.</a>
-            <a class="__a19" href="">π</a>
-            <a class="__a20" href="">=</a>
+            <a id="0" data-value="0" class="__a17 number-link" href="#">0</a>
+            <a id="." data-value="." class="__a18 number-link" href="#">.</a>
+            <a id="pie" class="__a19" data-value="3.147" href="#">π</a>
+            <a id="=" class="__a20 operator" data-value="=" href="#">=</a>
          </div>
 
     </div>
 
-
+<script src="index.js"></script>
 </body>
 
 </html>
